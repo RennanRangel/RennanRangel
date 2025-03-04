@@ -32,7 +32,7 @@
 
 
 ### 🤖 Estatisticas
-<p>
+<div style="display: flex; gap: 10px;">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -40,14 +40,15 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RennanRangel&show_icons=true&theme=tokyonight&" 
   />
-
-  
-<p>
   <img
-       align="left" 
-      alt="GitHub Stats" 
-      height="100" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanRangel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"> 
+    align="left" 
+    alt="GitHub Stats" 
+    height="100" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanRangel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
+</div>
+
+
+
 
 
 
