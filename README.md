@@ -22,16 +22,20 @@
         />
     </a>
 
+<hr>
+
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
   <img align="center" alt="Rennan-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rennan-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Rennan-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
 </div>
 
+<hr>
 
-### 🤖 Estatisticas
+### 🤖 Estatísticas
+
 <div style="display: flex; gap: 10px;">
   <img 
     align="left" 
@@ -46,8 +50,6 @@
     height="100" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanRangel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
 </div>
-
-
 
 
 
