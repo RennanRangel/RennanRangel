@@ -21,12 +21,7 @@
 
 
 
-#
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-
-#
 
 
 
@@ -50,6 +45,15 @@
 
 <br>
 <br>
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+
+#
+
+
+
 
 
 <picture align="center">
