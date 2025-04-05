@@ -53,7 +53,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="100" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanRangel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanRangel&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9&count_private=true&token=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">
 </div>
 
 <br>
