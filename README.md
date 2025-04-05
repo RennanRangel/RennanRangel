@@ -47,7 +47,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RennanRangel&show_icons=true&theme=tokyonight&" 
+    src="https://github-readme-stats.vercel.app/api?username=RennanRangel&show_icons=true&theme=tokyonight&count_private=true&token=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" 
   />
   <img
     align="left" 
