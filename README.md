@@ -2,13 +2,6 @@
 
 #
 
-
-
-
-
-
-
-
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.instagram.com/rennan.rangell/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rennan-rangel-a5419b235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -57,6 +50,11 @@
 
 ####
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RennanRangel/RennanRangel/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
