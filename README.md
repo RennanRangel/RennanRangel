@@ -41,21 +41,16 @@
     alt="GitHub Stats" 
     height="100" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanRangel&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9&count_private=true"
-
 </div>
 
-<br>
-<br>
 
 
 ####
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RennanRangel/RennanRangel/output/snake.svg" alt="Snake animation" />
-
-###
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
