@@ -25,22 +25,7 @@
 
 
 
-### 🤖 Estatísticas 
 
-<div style="display: flex; gap: 10px;">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=RennanRangel&show_icons=true&theme=tokyonight&count_private=true&token=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" 
-  />
-  <img
-    align="left" 
-    alt="GitHub Stats" 
-    height="100" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanRangel&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9&count_private=true"
-</div>
 
 
 
