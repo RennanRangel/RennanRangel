@@ -9,6 +9,7 @@
 
 ### Linguagens:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=3178C6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/%20%20.NET%20%20-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
