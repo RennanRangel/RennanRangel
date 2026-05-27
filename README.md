@@ -5,12 +5,15 @@
 
 #
 
+<br>
 
 ### Linguagens:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/%20%20.NET%20%20-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+
+<br>
 
 ### Ferramentas:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)&nbsp;
@@ -19,6 +22,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=000000)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
+
+<br>
 
 ### Outros conhecimentos:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
