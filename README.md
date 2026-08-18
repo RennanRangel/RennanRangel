@@ -15,8 +15,7 @@
   <em><strong>Sobre Mim</strong></e>
   <br><br>
   <em>
-    Sou um desenvolvedor Front-End formado em <strong>Técnico em Desenvolvimento de Sistemas</strong> pelo <strong>SENAI</strong>, com sólida bagagem em Back-End. Foco minha evolução no ecossistema do React.js, aplicando conceitos de componentização modular, código limpo e alta performance. Essa visão full-stack me permite transitar com facilidade na integração de APIs RESTful e no entendimento completo de arquiteturas web eficientes.
-  </em> 
+  Sou um desenvolvedor Front-End formado em <strong>Técnico em Desenvolvimento de Sistemas</strong> pelo <strong>SENAI</strong>, com familiaridade em conceitos de Back-End. Foco minha evolução no ecossistema do React.js, aplicando componentização modular, código limpo e alta performance. Essa visão facilita a integração de APIs RESTful e me dá uma compreensão clara do fluxo de desenvolvimento web.  </em> 
 </div>
 </div>
 <br>
@@ -24,8 +23,7 @@
 ### <em>Languages:</e>
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E)&nbsp;
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/%20%20.NET%20%20-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+
 
 <br>
 
@@ -42,11 +40,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
 ![Boostrap](https://img.shields.io/badge/-boostrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000)
 
 
 
-![Cypress](https://img.shields.io/badge/-Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white&labelColor=000000)
 
 
 ##
@@ -58,17 +54,17 @@
 <br><br>
 
 <p>
-    <div align="center">
-      <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=RennanRangel&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
-      />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RennanRangel&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-      />
-    </div>
+   <div align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RennanRangel&show_icons=true&title_color=5c1bf5&icon_color=5c1bf5&border_color=5c1bf5&bg_color=0d1117&text_color=ffffff&include_all_commits=true&locale=pt-br"
+  />
+  &nbsp;&nbsp;
+  <img
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RennanRangel&layout=compact&custom_title=Tecnologias&title_color=5c1bf5&border_color=5c1bf5&bg_color=0d1117&text_color=ffffff&langs_count=9"
+  />
+</div>
 </p>
 
 
