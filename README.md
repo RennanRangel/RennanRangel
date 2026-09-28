@@ -53,19 +53,7 @@
 
 <br><br>
 
-<p>
-   <div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RennanRangel&show_icons=true&title_color=5c1bf5&icon_color=5c1bf5&border_color=5c1bf5&bg_color=0d1117&text_color=ffffff&include_all_commits=true&locale=pt-br"
-  />
-  &nbsp;&nbsp;
-  <img
-    height="180"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RennanRangel&layout=compact&custom_title=Tecnologias&title_color=5c1bf5&border_color=5c1bf5&bg_color=0d1117&text_color=ffffff&langs_count=9"
-  />
-</div>
-</p>
+
 
 
 
